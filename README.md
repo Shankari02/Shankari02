@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shankari
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently trying out cool stuff in Zephyr
+- 🌱 I’m currently diving into the kernel!
 - ⚡ An enthusiastic learner :)
 
 <!---
